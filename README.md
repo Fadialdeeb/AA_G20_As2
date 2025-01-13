@@ -1,1 +1,1 @@
-# AA_G20_As2
+# Project: Heart Attack Percentage Detector
